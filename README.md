@@ -1,3 +1,3 @@
 # rsschool-cv
 
-privet poka
+Hello world
